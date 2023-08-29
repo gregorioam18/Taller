@@ -1,2 +1,3 @@
-public sdaad
-  
+public static void main(String[] args) {
+    
+}
